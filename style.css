@@ -12,3 +12,8 @@ body {
 .header-logo {
     font-size: 24px;
 }
+
+a {
+    font-size: 18px;
+    color: #E5E7EB;
+}
