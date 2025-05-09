@@ -36,3 +36,8 @@ a {
     display: flex;
     justify-content: center;
 }
+
+.hero-left {
+    display: flex;
+    flex-direction: column;
+}
