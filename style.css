@@ -30,3 +30,9 @@ a {
     color: #E5E7EB;
     text-decoration: none;
 }
+
+.hero {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+}
