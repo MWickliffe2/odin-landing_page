@@ -57,3 +57,7 @@ a {
     background-color: #3882F6;
     color: #F9FAF8;
 }
+
+.hero-right {
+    display: flex;
+}
