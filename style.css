@@ -9,8 +9,7 @@ body {
     color: #F9FAF8;
     background-color: #1F2937;
     display: flex;
-    /* justify-content: space-around; */
-    padding-top: 20px;
+    padding: 20px 100px 100px 100px;
 }
 
 .header-logo {
