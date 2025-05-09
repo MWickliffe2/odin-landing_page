@@ -35,6 +35,8 @@ a {
     background-color: #1F2937;
     display: flex;
     justify-content: space-around;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 .hero-left {
