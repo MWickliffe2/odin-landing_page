@@ -34,7 +34,7 @@ a {
 .hero {
     background-color: #1F2937;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .hero-left {
