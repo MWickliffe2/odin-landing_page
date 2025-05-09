@@ -41,6 +41,7 @@ a {
 
 .hero-left {
     display: flex;
+    width: 50%;
     flex-direction: column;
 }
 
@@ -62,4 +63,5 @@ a {
 
 .hero-right {
     display: flex;
+    width: 50%;
 }
