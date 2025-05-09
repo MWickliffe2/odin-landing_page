@@ -31,15 +31,15 @@ a {
     text-decoration: none;
 }
 
-.hero {
+/* .hero {
     background-color: #1F2937;
     display: flex;
     justify-content: space-around;
     padding-top: 100px;
     padding-bottom: 100px;
-}
+} */
 
-.hero-left {
+.header-left {
     display: flex;
     width: 50%;
     flex-direction: column;
@@ -56,12 +56,12 @@ a {
     color: #E5E7EB;
 }
 
-.hero-left button {
+.header-left button {
     background-color: #3882F6;
     color: #F9FAF8;
 }
 
-.hero-right {
+.header-right {
     display: flex;
     width: 50%;
 }
