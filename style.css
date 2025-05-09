@@ -55,6 +55,7 @@ a {
 .header-left button {
     background-color: #3882F6;
     color: #F9FAF8;
+    padding: 15px 32px;
 }
 
 .header-right {
