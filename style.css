@@ -49,6 +49,7 @@ a {
 .secondary-text {
     font-size: 18px;
     color: #E5E7EB;
+    padding: 10px 0px;
 }
 
 .header-left button {
