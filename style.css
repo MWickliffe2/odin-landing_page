@@ -85,5 +85,10 @@ img {
     font-weight: 900;
 }
 
+.info-header-bottom {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
 
 
