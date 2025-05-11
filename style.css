@@ -91,4 +91,8 @@ img {
     gap: 20px;
 }
 
+.square-placeholder img {
+    width: 200px;
+    height: 200px;
+}
 
