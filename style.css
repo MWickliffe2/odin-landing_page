@@ -119,4 +119,11 @@ img {
     padding-bottom: 150px;
 }
 
+.quote-text {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: lighter;
+}
+
 
