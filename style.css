@@ -99,7 +99,6 @@ img {
     border-width: 5px;
     border-color: #3882F6;
     border-radius: 12px;
-
 }
 
 .square-placeholder {
@@ -108,6 +107,11 @@ img {
     align-items: center;
     text-align: center;
     max-width: 200px;
+}
+
+.quote-section {
+    display: flex;
+    flex-direction: column;
 }
 
 
