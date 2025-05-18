@@ -140,4 +140,17 @@ img {
     background-color: #3882F6;
 }
 
+.action-text {
+    color: #F9FAF8;
+}
+
+.main-action-text {
+    font-size: 26px;
+    font-weight: bolder;
+}
+
+.sub-action-text {
+    font-size: 22px;
+}
+
 
