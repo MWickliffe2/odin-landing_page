@@ -138,13 +138,14 @@ img {
 
 .action-plate {
     background-color: #3882F6;
-    margin: 150px 75px;
+    margin: 180px;
     display: flex;
     justify-content: space-around;
 }
 
 .action-text {
     color: #F9FAF8;
+    padding: 100px 0px;
 }
 
 .main-action-text {
