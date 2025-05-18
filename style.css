@@ -138,6 +138,9 @@ img {
 
 .action-plate {
     background-color: #3882F6;
+    margin: 150px 75px;
+    display: flex;
+    justify-content: space-around;
 }
 
 .action-text {
