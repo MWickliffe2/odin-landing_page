@@ -139,8 +139,9 @@ img {
 .action-plate {
     background-color: #3882F6;
     margin: 180px;
-    display: flex;
+    display: flex; 
     justify-content: space-around;
+    border-radius: 12px;
 }
 
 .action-text {
