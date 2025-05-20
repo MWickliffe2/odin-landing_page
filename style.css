@@ -168,4 +168,17 @@ img {
     padding: 12px 32px;
 }
 
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-text {
+    color: #E5E7EB;
+    font-size: 20px;
+    padding: 50px 0px;
+}
+
 
