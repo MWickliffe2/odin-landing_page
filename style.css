@@ -107,6 +107,9 @@ img {
     text-align: center;
     max-width: 200px;
 }
+ .caption {
+    padding-top: 5px;
+ }
 
 .quote-section {
     display: flex;
